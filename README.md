@@ -14,10 +14,11 @@
 - Day 5: Exams MCQ and Coding
 
 
-<!---
+
 
 ## Course Link: 
 
 <img src="src/qr-code.png" width="150" height="150">
 
+<!---
 -->
